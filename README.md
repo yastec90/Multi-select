@@ -56,6 +56,6 @@ The React Multi-Skill Select App was developed using React, a JavaScript library
 Contact
 If you have any questions, suggestions, or feedback, feel free to contact the project maintainer at awodeleyasir@gmail.com.
 
-You can also visit the project repository on GitHub: https://github.com/your-username/react-multi-skill-select-app
+You can also visit the project repository on GitHub: https://github.com/
 
 Thank you for using the React Multi-Skill Select App! We hope you find it useful and enjoy using it. Happy selecting!
